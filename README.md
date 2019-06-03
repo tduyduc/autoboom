@@ -22,7 +22,7 @@ T.D. Stoneheart started his own baby steps with AutoIt automation in May 2014 an
 
 ## Features
 
-To understand what master and slave accounts mean, please refer to the _Terms_ section below.
+To understand what master and slave accounts mean, please refer to the _Key Terms_ section below.
 
 * Auto tỉ lệ thắng _(Winning automation)_: Increases number of wins, win rate, and guild points (if master accounts are in the same guild).
 * Auto điểm danh _(Check-in automation)_: Completes daily check-in procedures, including logging in, purchasing free needles, feeding pets, and finally logging out.
@@ -43,7 +43,7 @@ To understand what master and slave accounts mean, please refer to the _Terms_ s
   * Auto vật phẩm nhiệm vụ _(Quest item automation)_: Same functionality as that of the single-instance edition, although slower.
 * Window tool: Rename, hide, or unhide a window, or change its transparency.
 
-## Terms
+## Key Terms
 
 * (Tài khoản) chính _(main/master account)_: The account that benefits from the boosts created from automation (e.g. winning).
 * (Tài khoản) phụ _(auxiliary/sub/slave account)_: The account that takes the sacrifice so that the master account gains benefit in return (e.g. losing in a game against the master).
